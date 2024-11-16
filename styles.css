@@ -1,0 +1,20 @@
+
+ body {
+    margin-top: 20px; 
+} 
+.gradient-background {
+    background: linear-gradient(300deg, rgba(0, 204, 255, 0.744),lightyellow, #f3b1e5);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .container{
+    color:blue;
+  }
+  .lead{
+    color:red;
+  } 
+.col-lg-6{
+    text-align: left;
+    padding-left: 3.5rem;
+}
+
